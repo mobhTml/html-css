@@ -1,0 +1,37 @@
+@charset 
+
+<style>
+
+
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@600&family=Victor+Mono:ital@1&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Leckerli+One&display=swap');
+    
+@import url('https://fonts.googleapis.com/css2?family=Handjet:wght@500&display=swap');     
+body{font-family: 'Raleway', sans-serif;}
+
+h2{
+    font-family: 'Leckerli One', cursive;
+}
+
+h1{ font-family: 'Leckerli One', cursive;
+}
+p{font-family: 'Handjet', cursive; 
+    font-size: larger;
+    font-weight: bolder;
+    font-style: oblique;
+    text-decoration: underline;
+}
+h3{  font-family: 'Leckerli One', cursive;
+   
+}
+
+
+
+
+</style>
+
